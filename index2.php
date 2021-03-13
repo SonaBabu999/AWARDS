@@ -18,25 +18,25 @@
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     
                   <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="index.html"><b>Home</b></a>
+                    <a class="nav-link active" aria-current="page" href="index.php"><b>Home</b></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="index1.html"><b>SIGN UP</b></a>
+                    <a class="nav-link" href="index1.php"><b>SIGN UP</b></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="index2.html"><b>WINNERS</b></a>
+                    <a class="nav-link" href="index2.php"><b>WINNERS</b></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="index3.html"><b>NOMINEES</b></a>
+                    <a class="nav-link" href="index3.php"><b>NOMINEES</b></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="index4.html"><b>ABOUT</b></a>
+                    <a class="nav-link" href="index4.php"><b>ABOUT</b></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="index5.html"><b>CONTACT US</b></a>
+                    <a class="nav-link" href="index5.php"><b>CONTACT US</b></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="index6.html"><b>LOGIN</b></a>
+                    <a class="nav-link" href="index6.php"><b>LOGIN</b></a>
                   </li>
                   
                   </div>
@@ -64,41 +64,31 @@
                 <span class="visually-hidden">Loading...</span>
               </div>
           </nav>
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
+         
+          </div>
+          <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img height="500px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTSOXZ23IXbdgVa8aYVzh7lo2TBIcg7sTF3Q&usqp=CAU" class="d-block w-100" alt="...">
+              </div>
+            </div>
+          </div>
+            <div class="card text-dark bg-white mb-3" style="max-width: 450px;">
                 
+                <div class="row g-0">
+                  <div class="col-md-8">
+                    <img height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTSOXZ23IXbdgVa8aYVzh7lo2TBIcg7sTF3Q&usqp=CAU" alt="...">
                   </div>
-            </div>
-        </div>
-    </div>
-    
-      </div>
-      
-      </div>
-      </div>
-      <div class="card text-white bg-info mb-3" style="max-width: 68rem;">
-        <div class="card-header"><b>Get In Touch!!!</b></div>
-        <div class="card-body">
-            <img height="100px" src="https://cdn.pixabay.com/photo/2016/12/15/12/24/contact-us-1908762__340.png" alt="...">
-            <h5 class="card-title"><b>Contact Us</b></h5>
-            <p class="card-text"> THE ONE CLUB FOR CREATIVITY
-                450 W. 31ST ST, 6TH FLOOR
-                NEW YORK, NY 10001
-                T: +1-212-979-1900
-                F: +1-212-979-5006
-                E: INFO@ONECLUB.ORG
-            </p>
-        </div>
-      </div>
-      
-      </div>
-      </div>
-              
-            </div>
+                  <div class="col-md-8">
+                    <div class="card-body">
+                      <h8 class="card-title"><b>INDENA</b></h8>
+                      <p class="card-text">By Wedoo_SRL</p>
+                      <p class="card-text"><small class="text-muted">From Italy</small></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
           </div>
       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>  
     </body>
-    
 </html>
