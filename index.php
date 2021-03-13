@@ -18,25 +18,25 @@
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     
                   <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="index.html"><b>Home</b></a>
+                    <a class="nav-link active" aria-current="page" href="index.php"><b>Home</b></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="index1.html"><b>SIGN UP</b></a>
+                    <a class="nav-link" href="index1.php"><b>SIGN UP</b></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="index2.html"><b>WINNERS</b></a>
+                    <a class="nav-link" href="index2.php"><b>WINNERS</b></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="index3.html"><b>NOMINEES</b></a>
+                    <a class="nav-link" href="index3.php"><b>NOMINEES</b></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="index4.html"><b>ABOUT</b></a>
+                    <a class="nav-link" href="index4.php"><b>ABOUT</b></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="index5.html"><b>CONTACT US</b></a>
+                    <a class="nav-link" href="index5.php"><b>CONTACT US</b></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="index6.html"><b>LOGIN</b></a>
+                    <a class="nav-link" href="index6.php"><b>LOGIN</b></a>
                   </li>
                   
                   </div>
